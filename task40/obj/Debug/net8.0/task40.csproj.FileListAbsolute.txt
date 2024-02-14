@@ -1,0 +1,14 @@
+C:\Users\RomaAndLilya\Desktop\c#Task40\task40\bin\Debug\net8.0\task40.exe
+C:\Users\RomaAndLilya\Desktop\c#Task40\task40\bin\Debug\net8.0\task40.deps.json
+C:\Users\RomaAndLilya\Desktop\c#Task40\task40\bin\Debug\net8.0\task40.runtimeconfig.json
+C:\Users\RomaAndLilya\Desktop\c#Task40\task40\bin\Debug\net8.0\task40.dll
+C:\Users\RomaAndLilya\Desktop\c#Task40\task40\bin\Debug\net8.0\task40.pdb
+C:\Users\RomaAndLilya\Desktop\c#Task40\task40\obj\Debug\net8.0\task40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RomaAndLilya\Desktop\c#Task40\task40\obj\Debug\net8.0\task40.AssemblyInfoInputs.cache
+C:\Users\RomaAndLilya\Desktop\c#Task40\task40\obj\Debug\net8.0\task40.AssemblyInfo.cs
+C:\Users\RomaAndLilya\Desktop\c#Task40\task40\obj\Debug\net8.0\task40.csproj.CoreCompileInputs.cache
+C:\Users\RomaAndLilya\Desktop\c#Task40\task40\obj\Debug\net8.0\task40.dll
+C:\Users\RomaAndLilya\Desktop\c#Task40\task40\obj\Debug\net8.0\refint\task40.dll
+C:\Users\RomaAndLilya\Desktop\c#Task40\task40\obj\Debug\net8.0\task40.pdb
+C:\Users\RomaAndLilya\Desktop\c#Task40\task40\obj\Debug\net8.0\task40.genruntimeconfig.cache
+C:\Users\RomaAndLilya\Desktop\c#Task40\task40\obj\Debug\net8.0\ref\task40.dll
